@@ -2,177 +2,183 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://OctopusDavid.github.io/</loc>
-    <lastmod>2025-01-11T00:48:09+08:00</lastmod>
+    <loc>https://OctopusDavid/octopusdavid.github.io/</loc>
+    <lastmod>2025-01-12T10:59:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://OctopusDavid.github.io/zh-cn/"
+                href="https://OctopusDavid/octopusdavid.github.io/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://OctopusDavid.github.io/ar/"
+                href="https://OctopusDavid/octopusdavid.github.io/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://OctopusDavid.github.io/"
+                href="https://OctopusDavid/octopusdavid.github.io/"
                 />
   </url><url>
-    <loc>https://OctopusDavid.github.io/p/my-first-post.md/</loc>
-    <lastmod>2025-01-11T00:48:09+08:00</lastmod>
+    <loc>https://OctopusDavid/octopusdavid.github.io/p/mythirdarticle/</loc>
+    <lastmod>2025-01-12T10:59:41+08:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/post/</loc>
-    <lastmod>2025-01-11T00:48:09+08:00</lastmod>
+    <loc>https://OctopusDavid/octopusdavid.github.io/post/</loc>
+    <lastmod>2025-01-12T10:59:41+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://OctopusDavid.github.io/zh-cn/post/"
+                href="https://OctopusDavid/octopusdavid.github.io/zh-cn/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://OctopusDavid.github.io/ar/post/"
+                href="https://OctopusDavid/octopusdavid.github.io/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://OctopusDavid.github.io/post/"
+                href="https://OctopusDavid/octopusdavid.github.io/post/"
                 />
   </url><url>
-    <loc>https://OctopusDavid.github.io/page/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/p/mysecondarticle/</loc>
+    <lastmod>2025-01-12T01:26:04+08:00</lastmod>
+  </url><url>
+    <loc>https://OctopusDavid/octopusdavid.github.io/p/my-first-post.md/</loc>
+    <lastmod>2025-01-11T00:48:09+08:00</lastmod>
+  </url><url>
+    <loc>https://OctopusDavid/octopusdavid.github.io/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://OctopusDavid.github.io/zh-cn/page/"
+                href="https://OctopusDavid/octopusdavid.github.io/zh-cn/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://OctopusDavid.github.io/page/"
+                href="https://OctopusDavid/octopusdavid.github.io/page/"
                 />
   </url><url>
-    <loc>https://OctopusDavid.github.io/archives/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/categories/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://OctopusDavid.github.io/zh-cn/categories/"
+                href="https://OctopusDavid/octopusdavid.github.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://OctopusDavid.github.io/ar/categories/"
+                href="https://OctopusDavid/octopusdavid.github.io/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://OctopusDavid.github.io/categories/"
+                href="https://OctopusDavid/octopusdavid.github.io/categories/"
                 />
   </url><url>
-    <loc>https://OctopusDavid.github.io/tags/css/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/tags/html/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/tags/markdown/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/p/markdown-syntax-guide/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/categories/syntax/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/tags/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://OctopusDavid.github.io/zh-cn/tags/"
+                href="https://OctopusDavid/octopusdavid.github.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://OctopusDavid.github.io/ar/tags/"
+                href="https://OctopusDavid/octopusdavid.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://OctopusDavid.github.io/tags/"
+                href="https://OctopusDavid/octopusdavid.github.io/tags/"
                 />
   </url><url>
-    <loc>https://OctopusDavid.github.io/tags/themes/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/categories/themes/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/p/placeholder-text/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://OctopusDavid.github.io/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
+                href="https://OctopusDavid/octopusdavid.github.io/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://OctopusDavid.github.io/p/placeholder-text/"
+                href="https://OctopusDavid/octopusdavid.github.io/p/placeholder-text/"
                 />
   </url><url>
-    <loc>https://OctopusDavid.github.io/tags/tag-with-whitespaces/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/categories/test-with-whitespaces/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/tags/text/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/categories/test/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://OctopusDavid.github.io/zh-cn/categories/test/"
+                href="https://OctopusDavid/octopusdavid.github.io/zh-cn/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://OctopusDavid.github.io/categories/test/"
+                href="https://OctopusDavid/octopusdavid.github.io/categories/test/"
                 />
   </url><url>
-    <loc>https://OctopusDavid.github.io/p/math-typesetting/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/tags/emoji/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/p/emoji-support/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://OctopusDavid.github.io/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://OctopusDavid.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="https://OctopusDavid/octopusdavid.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://OctopusDavid.github.io/%E5%85%B3%E4%BA%8E/"
+                href="https://OctopusDavid/octopusdavid.github.io/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
-    <loc>https://OctopusDavid.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
   </url><url>
-    <loc>https://OctopusDavid.github.io/search/</loc>
+    <loc>https://OctopusDavid/octopusdavid.github.io/search/</loc>
   </url>
 </urlset>
