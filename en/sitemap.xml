@@ -2,189 +2,189 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/</loc>
+    <loc>https://octopusdavid.github.io/</loc>
     <lastmod>2025-01-12T21:51:38+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://octopusdavid.github.io/hugo-vercel/zh-cn/"
+                href="https://octopusdavid.github.io/zh-cn/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://octopusdavid.github.io/hugo-vercel/ar/"
+                href="https://octopusdavid.github.io/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://octopusdavid.github.io/hugo-vercel/"
+                href="https://octopusdavid.github.io/"
                 />
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/p/myfifthariticle/</loc>
+    <loc>https://octopusdavid.github.io/p/myfifthariticle/</loc>
     <lastmod>2025-01-12T21:51:38+08:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/post/</loc>
+    <loc>https://octopusdavid.github.io/post/</loc>
     <lastmod>2025-01-12T21:51:38+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://octopusdavid.github.io/hugo-vercel/zh-cn/post/"
+                href="https://octopusdavid.github.io/zh-cn/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://octopusdavid.github.io/hugo-vercel/ar/post/"
+                href="https://octopusdavid.github.io/ar/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://octopusdavid.github.io/hugo-vercel/post/"
+                href="https://octopusdavid.github.io/post/"
                 />
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/p/myforthariticle/</loc>
+    <loc>https://octopusdavid.github.io/p/myforthariticle/</loc>
     <lastmod>2025-01-12T21:40:23+08:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/p/mythirdarticle/</loc>
+    <loc>https://octopusdavid.github.io/p/mythirdarticle/</loc>
     <lastmod>2025-01-12T10:59:41+08:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/p/mysecondarticle/</loc>
+    <loc>https://octopusdavid.github.io/p/mysecondarticle/</loc>
     <lastmod>2025-01-12T01:26:04+08:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/p/my-first-post.md/</loc>
+    <loc>https://octopusdavid.github.io/p/my-first-post.md/</loc>
     <lastmod>2025-01-11T00:48:09+08:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/page/</loc>
+    <loc>https://octopusdavid.github.io/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://octopusdavid.github.io/hugo-vercel/zh-cn/page/"
+                href="https://octopusdavid.github.io/zh-cn/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://octopusdavid.github.io/hugo-vercel/page/"
+                href="https://octopusdavid.github.io/page/"
                 />
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/archives/</loc>
+    <loc>https://octopusdavid.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/categories/</loc>
+    <loc>https://octopusdavid.github.io/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://octopusdavid.github.io/hugo-vercel/zh-cn/categories/"
+                href="https://octopusdavid.github.io/zh-cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://octopusdavid.github.io/hugo-vercel/ar/categories/"
+                href="https://octopusdavid.github.io/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://octopusdavid.github.io/hugo-vercel/categories/"
+                href="https://octopusdavid.github.io/categories/"
                 />
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/tags/css/</loc>
+    <loc>https://octopusdavid.github.io/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/tags/html/</loc>
+    <loc>https://octopusdavid.github.io/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/tags/markdown/</loc>
+    <loc>https://octopusdavid.github.io/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/p/markdown-syntax-guide/</loc>
+    <loc>https://octopusdavid.github.io/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/categories/syntax/</loc>
+    <loc>https://octopusdavid.github.io/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/tags/</loc>
+    <loc>https://octopusdavid.github.io/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://octopusdavid.github.io/hugo-vercel/zh-cn/tags/"
+                href="https://octopusdavid.github.io/zh-cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://octopusdavid.github.io/hugo-vercel/ar/tags/"
+                href="https://octopusdavid.github.io/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://octopusdavid.github.io/hugo-vercel/tags/"
+                href="https://octopusdavid.github.io/tags/"
                 />
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/tags/themes/</loc>
+    <loc>https://octopusdavid.github.io/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/categories/themes/</loc>
+    <loc>https://octopusdavid.github.io/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/p/placeholder-text/</loc>
+    <loc>https://octopusdavid.github.io/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="https://octopusdavid.github.io/hugo-vercel/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
+                href="https://octopusdavid.github.io/ar/p/%D9%85%D8%AB%D8%A7%D9%84-%D9%86%D8%B5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://octopusdavid.github.io/hugo-vercel/p/placeholder-text/"
+                href="https://octopusdavid.github.io/p/placeholder-text/"
                 />
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/tags/tag-with-whitespaces/</loc>
+    <loc>https://octopusdavid.github.io/tags/tag-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/categories/test-with-whitespaces/</loc>
+    <loc>https://octopusdavid.github.io/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/tags/text/</loc>
+    <loc>https://octopusdavid.github.io/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/categories/test/</loc>
+    <loc>https://octopusdavid.github.io/categories/test/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://octopusdavid.github.io/hugo-vercel/zh-cn/categories/test/"
+                href="https://octopusdavid.github.io/zh-cn/categories/test/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://octopusdavid.github.io/hugo-vercel/categories/test/"
+                href="https://octopusdavid.github.io/categories/test/"
                 />
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/p/math-typesetting/</loc>
+    <loc>https://octopusdavid.github.io/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/tags/emoji/</loc>
+    <loc>https://octopusdavid.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/p/emoji-support/</loc>
+    <loc>https://octopusdavid.github.io/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://octopusdavid.github.io/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://octopusdavid.github.io/hugo-vercel/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="https://octopusdavid.github.io/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://octopusdavid.github.io/hugo-vercel/%E5%85%B3%E4%BA%8E/"
+                href="https://octopusdavid.github.io/%E5%85%B3%E4%BA%8E/"
                 />
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://octopusdavid.github.io/%E5%8F%8B%E6%83%85%E9%93%BE%E6%8E%A5/</loc>
   </url><url>
-    <loc>https://octopusdavid.github.io/hugo-vercel/search/</loc>
+    <loc>https://octopusdavid.github.io/search/</loc>
   </url>
 </urlset>
